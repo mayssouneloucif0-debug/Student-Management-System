@@ -120,3 +120,4 @@ console.log("Subject:", teacher1.subject);
 
 teacher1.introduce();
 teacher1.teach();
+console.log("Updated Student Management System");
